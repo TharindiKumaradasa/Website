@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+    background-color: #0FA02E;
+    background-image: -webkit-linear-gradient(270deg,rgba(72,232,58,1.00) 0%,rgba(255,255,255,1.00) 48.91%,rgba(255,255,255,1.00) 58.65%,rgba(230,255,49,1.00) 82.69%);
+    background-image: -moz-linear-gradient(270deg,rgba(72,232,58,1.00) 0%,rgba(255,255,255,1.00) 48.91%,rgba(255,255,255,1.00) 58.65%,rgba(230,255,49,1.00) 82.69%);
+    background-image: -o-linear-gradient(270deg,rgba(72,232,58,1.00) 0%,rgba(255,255,255,1.00) 48.91%,rgba(255,255,255,1.00) 58.65%,rgba(230,255,49,1.00) 82.69%);
+    background-image: linear-gradient(180deg,rgba(72,232,58,1.00) 0%,rgba(255,255,255,1.00) 48.91%,rgba(255,255,255,1.00) 58.65%,rgba(230,255,49,1.00) 82.69%);
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #EBF508;
+}
+
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-color: #F9FFFA;
+    background-image: -webkit-linear-gradient(270deg,rgba(184,249,178,1.00) 0%,rgba(184,249,178,1.00) 76.68%,rgba(237,251,138,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(184,249,178,1.00) 0%,rgba(184,249,178,1.00) 76.68%,rgba(237,251,138,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(184,249,178,1.00) 0%,rgba(184,249,178,1.00) 76.68%,rgba(237,251,138,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(184,249,178,1.00) 0%,rgba(184,249,178,1.00) 76.68%,rgba(237,251,138,1.00) 100%);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(72,232,58,1.00) 0%,rgba(88,240,75,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(72,232,58,1.00) 0%,rgba(88,240,75,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(72,232,58,1.00) 0%,rgba(88,240,75,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(72,232,58,1.00) 0%,rgba(88,240,75,1.00) 100%);
+}
+#accordion1 .card {
+    background-color: #9FEFA2;
+}
+.card #headingTwo1 .mb-0 {
+    color: #080908;
+}
+
+#accordion1 .card #headingOne1 {
+    background-color: #000000;
+    color: #E0FF00;
+}
+.mb-0 a em {
+    color: #F8FF00;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
